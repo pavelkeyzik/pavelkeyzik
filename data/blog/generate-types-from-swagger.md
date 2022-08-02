@@ -25,7 +25,7 @@ Let's move to code...
 
 I used `axios` to fetch data. You can use anything you want.
 
-```shell
+```shell:terminal
 npm i -D @codegena/oapi3ts-cli axios
 ```
 
@@ -33,9 +33,7 @@ npm i -D @codegena/oapi3ts-cli axios
 
 Now let's create the `scripts/` folder in the root of your project and add two files (`fetch-schema.js` and `schema-codegen.js`) inside of the created folder. Also, we need to create `src/typings/` folder where we're gonna save our types and API schema.
 
-```js
-// scripts/schema-codegen.js
-
+```js:scripts/schema-codegen.js
 const cliLib = require('@codegena/oapi3ts-cli')
 const cliApp = new cliLib.CliApplication()
 
@@ -43,8 +41,7 @@ cliApp.cliConfig.typingsDirectory = ''
 cliApp.createTypings()
 ```
 
-```js
-// scripts/fetch-schema.js
+```js:scripts/fetch-schema.js
 
 const axios = require('axios')
 const https = require('https')
@@ -94,7 +91,7 @@ instance
 
 And one of the last things you need to do is add to `package.json` these lines:
 
-```json
+```json:package.json
 {
     ...
     "scripts": {
@@ -108,7 +105,7 @@ And one of the last things you need to do is add to `package.json` these lines:
 
 ## Now you can generate your API schema with this command:
 
-```shell
+```shell:terminal
 npm run schema:codegen
 ```
 
