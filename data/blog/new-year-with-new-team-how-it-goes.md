@@ -5,6 +5,7 @@ tags: ['Career']
 draft: false
 summary: 'A little story about how I switched the team this year and my feelings about that change in my life'
 authors: ['default']
+images: ['/static/images/new-year-with-new-team-how-it-goes/passion-led-us-here.jpg']
 ---
 
 ![Pizza on a table](/static/images/new-year-with-new-team-how-it-goes/cover.jpg)

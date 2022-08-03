@@ -5,6 +5,7 @@ tags: ['Design Systems']
 draft: false
 summary: 'A short story about my experience of using Primer'
 authors: ['default']
+images: ['/static/images/using-primer-design-system/cover.jpg']
 ---
 
 ![Post cover](/static/images/using-primer-design-system/cover.jpg)

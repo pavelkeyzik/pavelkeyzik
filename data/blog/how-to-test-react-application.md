@@ -5,6 +5,7 @@ tags: ['React', 'Testing']
 draft: false
 summary: "Have you ever tested your React application using Jest? I think it's awesome and saves you a lot of time"
 authors: ['default']
+images: ['/static/images/how-to-test-react-application/cover.jpg']
 ---
 
 ![The screen with code of unit tests](/static/images/how-to-test-react-application/cover.jpg)

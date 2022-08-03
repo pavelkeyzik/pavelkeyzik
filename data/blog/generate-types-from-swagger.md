@@ -5,6 +5,7 @@ tags: ['React', 'Testing']
 draft: false
 summary: "In this article, I'd like to share some code that helped me a lot to work with an API that had been changed often"
 authors: ['default']
+images: ['/static/images/generate-types-from-swagger/cover.jpg']
 ---
 
 ![Post cover](/static/images/generate-types-from-swagger/cover.jpg)
