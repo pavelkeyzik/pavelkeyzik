@@ -9,12 +9,12 @@ const siteMetadata = {
   siteRepo: 'https://github.com/pavelkeyzik/pavelkeyzik',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'pavel.keyzik@gmail.com',
   github: 'https://github.com/pavelkeyzik',
   twitter: 'https://twitter.com/pavelkeyzik',
   youtube: 'https://www.youtube.com/channel/UCl6lbAxDvVJEKeEBFY6hLng',
-  linkedin: 'https://www.linkedin.comhttps://www.linkedin.com/in/pavelkeyzik/',
+  linkedin: 'https://www.linkedin.com/in/pavelkeyzik/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
