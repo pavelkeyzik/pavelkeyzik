@@ -141,11 +141,11 @@ There are so many nice and free hosting, but I usually use [Vercel](https://verc
 
 ![Shows where does link is placed on the page](/static/images/how-to-create-a-web-page-step-by-step/deploy-manually-link.png)
 
-Now you should be able to drop our `my-personal-website` folder that contains `index.html` file. After that, you should see the screen below. You'll need to wait a little bit until the status of Production Deploys will change from **Uploading** to **Published**.
+You should be able to drop our `my-personal-website` folder that contains `index.html` file. After that, you should see the screen below. You'll need to wait a little bit until the status of Production Deploys will change from **Uploading** to **Published**.
 
 ![Shows the page with successful build](/static/images/how-to-create-a-web-page-step-by-step/published-on-netlify.png)
 
-Now you have a link to your website, that you can share. In my case it's [https://gleaming-gumdrop-6a0f99.netlify.app/](https://gleaming-gumdrop-6a0f99.netlify.app/).
+Here it is! You have a link to your website, that you can share. In my case it's [https://gleaming-gumdrop-6a0f99.netlify.app/](https://gleaming-gumdrop-6a0f99.netlify.app/).
 
 ## Summary
 
