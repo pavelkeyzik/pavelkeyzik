@@ -1,7 +1,7 @@
 ---
 title: 'How to Create a Web Page (Step by Step)'
 date: '2022-08-29'
-tags: ['Career']
+tags: ['Career', 'HTML', 'CSS']
 draft: false
 summary: "In this article we'll create our first website step by step"
 authors: ['default']
