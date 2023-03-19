@@ -11,11 +11,11 @@
 ## About Me
 
 - :star: I'm a **wee** star
-- 😍 In love with Design Systems
+- 😍 In love with Design Systems & Accessibility
 - 🧱 I use daily: React, TypeScript, HTML, CSS
 - 📫 How to reach me: pavel.keyzik@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm keen on automotive photography. You can check my [Unsplash account](https://unsplash.com/@pavelkeyzik).
+- ⚡ Fun fact: I have a little experience in photography. You can check my [Unsplash account](https://unsplash.com/@pavelkeyzik).
 - 🏝 I've been to: 🇧🇾 Belarus 🇷🇺 Russia 🇺🇦 Ukraine 🇱🇹 Lithuania 🇵🇱 Poland 🇺🇿 Uzbekistan 🇩🇪 Germany 🇨🇿 Czechia 🇸🇪 Sweden
 
 ## Education
