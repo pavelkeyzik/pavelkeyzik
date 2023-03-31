@@ -1,5 +1,5 @@
 ---
-title: 'The Best Way of Reducing Amount of Complex if-else Statements'
+title: 'The Best Way to Reduce Complex if-else Statements'
 date: '2023-03-31'
 tags: ['Improvements', 'JavaScript']
 draft: false
