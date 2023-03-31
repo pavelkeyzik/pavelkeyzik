@@ -3,7 +3,7 @@ title: 'The Best Way to Reduce Complex if-else Statements'
 date: '2023-03-31'
 tags: ['Improvements', 'JavaScript']
 draft: false
-summary: 'The article describes a really simple and powerfull way of handling multiple statements without using if-else conditions'
+summary: 'The article describes a really simple and powerful way of handling multiple statements without using if-else conditions'
 authors: ['default']
 images: ['/static/images/the-best-way-of-reducing-amount-of-complex-if-else-statements/cover.jpg']
 ---
