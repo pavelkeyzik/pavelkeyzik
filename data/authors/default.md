@@ -2,7 +2,7 @@
 name: Pavel Keyzik
 avatar: /static/images/avatar.jpeg
 occupation: Front-end Engineer
-company: iTechArt
+company: Vention
 email: pavel.keyzik@gmail.com
 twitter: https://twitter.com/pavelkeyzik
 github: https://github.com/pavelkeyzik
