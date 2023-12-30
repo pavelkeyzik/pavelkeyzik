@@ -13,6 +13,7 @@
 - :star: I'm a **wee** star
 - 😍 In love with Design Systems & Accessibility
 - 🧱 I use daily: React, TypeScript, HTML, CSS
+- 💰 I build [Monout](https://monout.com) application to help me save more money and plan my expenses
 - 📫 How to reach me: pavel.keyzik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a little experience in photography. You can check my [Unsplash account](https://unsplash.com/@pavelkeyzik).
