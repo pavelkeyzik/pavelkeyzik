@@ -1,9 +1,9 @@
 const projectsData = [
   {
-    title: 'Expense Tracking App',
-    description: `My side project to track personal finances with really beautiful inteface that currently in active development`,
-    imgSrc: '/static/images/projects/expense-tracking-app.png',
-    href: 'https://twitter.com/ExpenseApp',
+    title: 'Monout',
+    description: `Save more money by tracking your expenses, planning budget, and analyze monthly reports`,
+    imgSrc: '/static/images/projects/monout.png',
+    href: 'https://monout.com',
   },
   {
     title: 'Slice',
