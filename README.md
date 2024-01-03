@@ -25,3 +25,6 @@
 - Full-stack course, iTechArt (2018)
 - Front-end course, Andersen (2016)
 - HTML/CSS/Photoshop personal training, BelHard (2012)
+
+
+Test
