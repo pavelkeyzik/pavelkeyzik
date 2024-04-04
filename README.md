@@ -17,7 +17,7 @@
 - 📫 How to reach me: pavel.keyzik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a little experience in photography. You can check my [Unsplash account](https://unsplash.com/@pavelkeyzik).
-- 🏝 I've been to: 🇧🇾 Belarus 🇷🇺 Russia 🇺🇦 Ukraine 🇱🇹 Lithuania 🇵🇱 Poland 🇺🇿 Uzbekistan 🇩🇪 Germany 🇨🇿 Czechia 🇸🇪 Sweden 🇪🇸 Spain
+- 🏝 I've been to: 🇧🇾 Belarus 🇷🇺 Russia 🇺🇦 Ukraine 🇱🇹 Lithuania 🇵🇱 Poland 🇺🇿 Uzbekistan 🇩🇪 Germany 🇨🇿 Czechia 🇸🇪 Sweden 🇪🇸 Spain 🇧🇪 Belgium
 
 ## Education
 
