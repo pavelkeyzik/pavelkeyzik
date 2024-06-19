@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Pavel Keyzik</h3>
-<p align="center">Software Engineer at <a href="http://ventionteams.com">Vention</a> in Łódź, Poland</p>
+<p align="center">Software Engineer</p>
 <p align="center">
-  <a href="https://pavelkeyzik.com">Website</a> •
+  <a href="https://pavelkeyzik.dev">Website</a> •
   <a href="https://twitter.com/pavelkeyzik">Twitter</a> •
   <a href="https://www.linkedin.com/in/pavelkeyzik/">LinkedIn</a>
 </p>
