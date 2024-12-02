@@ -17,11 +17,4 @@
 - 📫 How to reach me: pavel.keyzik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a little experience in photography. You can check my [Unsplash account](https://unsplash.com/@pavelkeyzik).
-- 🏝 I've been to: 🇧🇾 Belarus 🇷🇺 Russia 🇺🇦 Ukraine 🇱🇹 Lithuania 🇵🇱 Poland 🇺🇿 Uzbekistan 🇩🇪 Germany 🇨🇿 Czechia 🇸🇪 Sweden 🇪🇸 Spain 🇧🇪 Belgium 🇦🇹 Austria 🇸🇰 Slovakia 🇲🇰 North Macedonia
-
-## Education
-
-- Bachelor's degree, Polotsk State University (2019)
-- Full-stack course, iTechArt (2018)
-- Front-end course, Andersen (2016)
-- HTML/CSS/Photoshop personal training, BelHard (2012)
+- 🏝 I've been to: 🇧🇾 Belarus 🇷🇺 Russia 🇺🇦 Ukraine 🇱🇹 Lithuania 🇵🇱 Poland 🇺🇿 Uzbekistan 🇩🇪 Germany 🇨🇿 Czechia 🇸🇪 Sweden 🇪🇸 Spain 🇧🇪 Belgium 🇦🇹 Austria 🇸🇰 Slovakia 🇲🇰 North Macedonia 🇳🇱 Netherlands 🇬🇧 United Kingdom 🇱🇺 Luxembourg
