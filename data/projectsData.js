@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Apollo.io',
+    description: `The only solution you need to run a world-class sales organization`,
+    imgSrc: '/static/images/projects/apollo.png',
+    href: 'https://www.apollo.io',
+  },
+  {
     title: 'Monout',
     description: `Save more money by tracking your expenses, planning budget, and analyze monthly reports`,
     imgSrc: '/static/images/projects/monout.png',
